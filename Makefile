@@ -1,4 +1,4 @@
-# COMP1521 21T2 ... a general makefile for multiple exercises
+# a general makefile
 
 CC		 = dcc
 EXERCISES	?=

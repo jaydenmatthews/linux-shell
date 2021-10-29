@@ -1,14 +1,8 @@
 ////////////////////////////////////////////////////////////////////////
-// COMP1521 21t2 -- Assignment 2 -- shuck, A Simple Shell
-// <https://www.cse.unsw.edu.au/~cs1521/21T2/assignments/ass2/index.html>
+// shuck, A Simple Shell
 //
 // Written by Jayden Matthews (z5360350) on 6/08/2021.
-//
-// 2021-07-12    v1.0    Team COMP1521 <cs1521@cse.unsw.edu.au>
-// 2021-07-21    v1.1    Team COMP1521 <cs1521@cse.unsw.edu.au>
-//     * Adjust qualifiers and attributes in provided code,
-//       to make `dcc -Werror' happy.
-//
+
 
 #include <sys/types.h>
 
